@@ -16,9 +16,14 @@ Here are some ideas to get you started:
 
 # Hello World! ✨
 
-Sou uma estudante de Engenharia de Sistemas, começando a navegar no mundo da programação front e backend. 
+Sou uma estudante de programação, buscando cada dia mais conhecimentos e oportunidades na área. 
 
 ### Atualmente estou estudando:
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
+
+### Tenho conhecimentos em:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
